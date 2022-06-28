@@ -1,0 +1,11 @@
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\Resources\Employees_log.ldf
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\Resources\Employees.mdf
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+c:\users\shree\documents\visual studio 2013\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
